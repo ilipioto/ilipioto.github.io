@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilipioto.github.io/sitemap/sitemap_index.txt.gz
